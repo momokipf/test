@@ -1,4 +1,4 @@
-/* A simple server in the internet domain using TCP
+/* A simserver in the internet domain using TCP
    The port number is passed as an argument 
    This version runs forever, forking off a separate 
    process for each connection
